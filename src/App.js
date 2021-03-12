@@ -53,7 +53,7 @@ function App() {
           <footer>
               <Tile
                   name="The brand"
-                  text="Our brand is all about our bags make you happy and make you shine"
+                  text="Our brand is all about our bags to make you happy and to make you shine"
               />
               <Tile
                   image={brand}
@@ -65,7 +65,7 @@ function App() {
               />
               <Tile
                   name="Our story"
-                  text="This is our story about our bags are catchy"
+                  text="This is our story about our catchy bags"
               />
           </footer>
       </>
